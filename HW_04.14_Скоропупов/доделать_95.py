@@ -30,6 +30,7 @@ def capital_i(string):
         upper_i += [False]
     return upper_i
 
+
 def format_str(string):
     string = string.strip()
     capitals = [i or j for i, j in zip(capital_i(string), new_sen(string))]
