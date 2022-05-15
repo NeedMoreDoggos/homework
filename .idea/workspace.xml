@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a070a333-e4ef-4653-940b-5204ce3f1727" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HW_04.14_Скоропупов/95.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_04.14_Скоропупов/доделать_95.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_04.14_Скоропупов/доделать_95.py" afterDir="false" />
-    </list>
+    <list default="true" id="a070a333-e4ef-4653-940b-5204ce3f1727" name="Changes" comment="15.05 Homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +41,14 @@
       <option name="presentableId" value="Default" />
       <updated>1649202786644</updated>
     </task>
+    <task id="LOCAL-00001" summary="15.05 Homework">
+      <created>1652636369424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652636369424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -57,5 +61,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="15.05 Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.05 Homework" />
   </component>
 </project>
