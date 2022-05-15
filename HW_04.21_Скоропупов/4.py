@@ -1,0 +1,2 @@
+def hof(arg):
+    pass
