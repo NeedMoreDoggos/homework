@@ -6,7 +6,7 @@ import datetime
 def add_file(name):
     with open('x_files.txt', 'a', encoding='utf-8') as fin:
         fin.write(str(name) + '\n')
-    
+
     return
 
 
@@ -27,8 +27,8 @@ def x_files(path, *, old=7):
             if datetime.timedelta(seconds=os.stat(Path(str(start_dir) + '\\' + content[i])).st_mtime).days > old:
                 print('Ето файлик', Path(str(start_dir) + '\\' + content[i]))
                 add_file(str(Path(str(start_dir) + '\\' + content[i])))
-    
-    return  
-    
- 
+
+    return
+
+
 x_files(input('Введите путь'), old=1)

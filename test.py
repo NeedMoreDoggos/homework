@@ -1,7 +1,14 @@
-from time import *
-for hours in range(24):
-    for minutes in range(60):
-        for seconds in range(60):
-            print(hours, ':', minutes, ':', seconds, end='')
-            sleep(1)
-            print(end='\r')
+def counter(func):
+    count = 0
+    def inner(*args, **kwargs):
+        nonlocal count
+        count += 1
+        print(f'Функция {func.__name__} вызывалась {count} раз')
+        return func(*args, **kwargs)
+    
+    return inner
+    
+
+@counter
+def test():
+    pass
