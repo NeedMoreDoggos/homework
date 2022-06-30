@@ -7927,3 +7927,24 @@ E:\Учебные материалы\Материалы с Шага\Стырен
 E:\Учебные материалы\Материалы с Шага\Стыренные лекции группы python_113\Собрание в канале _Общий_-20220428_154004-Запись собрания.mp4
 E:\Учебные материалы\Материалы с Шага\Стыренные лекции группы python_113\Фреймворки-20220513_154447-Запись собрания.mp4
 E:\Учебные материалы\Материалы с Шага\Стыренные лекции группы python_113\Фреймворки-20220517_153443-Запись собрания.mp4
+.idea\.gitignore
+.idea\.name
+.idea\HW_04_26_Скоропупов.iml
+.idea\inspectionProfiles\profiles_settings.xml
+.idea\misc.xml
+.idea\modules.xml
+.idea\vcs.xml
+.idea\workspace.xml
+1.py
+3.py
+4.json
+4.py
+folder1\first.py
+folder1\main.py
+folder1\second.py
+folder1\__pycache__\first.cpython-310.pyc
+folder1\__pycache__\second.cpython-310.pyc
+folder2\second.py
+msg.py
+x_files.txt
+__pycache__\msg.cpython-310.pyc

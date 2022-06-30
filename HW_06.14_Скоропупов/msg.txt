@@ -1,0 +1,3 @@
+18:13:49     Dogs: Hello
+18:13:54     Dogs: How a u?
+18:13:59     Dogs: ???
